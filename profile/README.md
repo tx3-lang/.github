@@ -21,7 +21,7 @@ Be part of the journey and join our welcoming community on [TxPipe's Discord](ht
 
 This Github organization references all core projects related to Tx3.
 
-## <img src="https://raw.githubusercontent.com/tx3-lang/.github/main/assets/x-light.svg?sanitize=true#gh-dark-mode-only" height="32" /><img src="https://raw.githubusercontent.com/tx3-lang/.github/main/assets/x-dark.svg?sanitize=true#gh-light-mode-only" height="32" /> Follow us
+## <img src="https://raw.githubusercontent.com/tx3-lang/.github/main/assets/x-light.svg?sanitize=true#gh-dark-mode-only" height="24" /><img src="https://raw.githubusercontent.com/tx3-lang/.github/main/assets/x-dark.svg?sanitize=true#gh-light-mode-only" height="24" /> Follow us
 
 Follow us on X [@txpipe_tools](https://x.com/txpipe_tools) for updates and chats about the future of Tx3.
 
